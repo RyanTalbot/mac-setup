@@ -24,3 +24,9 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ---
 
 ### Packages
+
+**Raycast**
+**Rectangle**
+**AltTab**
+
+---
