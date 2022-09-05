@@ -17,9 +17,14 @@ brew install --cask iterm2
 ```
 
 **Oh My ZSH**
+
 ```sh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
+**Themes**
+
+https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ---
 
