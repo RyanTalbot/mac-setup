@@ -24,7 +24,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 **Themes**
 
-https://github.com/mbadolato/iTerm2-Color-Schemes
+[Color schemes - Challenger](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 ---
 
