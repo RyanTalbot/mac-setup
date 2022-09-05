@@ -34,7 +34,9 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 **Raycast**
 
-https://www.raycast.com/
+```sh
+brew install --cask raycast
+```
 
 **Rectangle**
 
