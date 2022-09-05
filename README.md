@@ -26,6 +26,8 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 [Color schemes - Challenger](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
+[Powerline fonts](https://github.com/powerline/fonts)
+
 ---
 
 ### Packages
