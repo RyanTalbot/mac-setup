@@ -54,10 +54,13 @@ brew install --cask alt-tab
 
 ### NodeJS
 
+***Install n***
+
 ```sh
 brew install n
 ```
 
+***Install LTS using n***
 ```sh
 n lts
 ```
